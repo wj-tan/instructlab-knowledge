@@ -2,8 +2,6 @@
 
 InstructLab is an open source project for enhancing large language models (LLMs) used in generative artificial intelligence (gen AI) applications. Created by IBM and Red Hat, the InstructLab community project provides a cost-effective solution for improving the alignment of LLMs and opens the doors for those with minimal machine learning experience to contribute.
 
-## Join the InstructLab community
-
 ## What does InstructLab do?
 
 LLMs can power a range of useful applications like chatbots and coding assistants. These LLMs can be proprietary (such as OpenAI’s GPT models and Anthropic’s Claude models) or offer varying degrees of openness around pretraining data and usage restrictions (such as Meta’s Llama models, Mistral AI’s Mistral models, and IBM’s Granite models).
@@ -19,10 +17,6 @@ InstructLab follows an approach that punches through those limitations. It can e
 InstructLab is named after and based on IBM Research’s work on Large-scale Alignment for chatBots, abbreviated as LAB. The LAB method is described in a 2024 research paper by members of the MIT-IBM Watson AI Lab and IBM Research.
 
 InstructLab is not model-specific. It can provide supplemental skills and knowledge fine-tuning to an LLM of your choice. This “tree of skills and knowledge” improves continuously from community contributions and can be applied to support regular builds of an enhanced LLM. InstructLab maintains an enhanced version of IBM Granite. Two other lab-enhanced models released by IBM include Labradorite, which is derived from Llama 2, and Merlinite, which is derived from Mistral. The InstructLab project prioritizes fast iteration and intends to retrain models on a regular basis. Organizations can also use the InstructLab model alignment tools to train their own private LLMs with their own proprietary skills and knowledge.
-
-## Red Hat resources
-
-### Keep reading
 
 ## How does InstructLab work?
 
@@ -59,8 +53,6 @@ RAG is a cost-efficient method for supplementing an LLM with domain-specific kno
 This is in contrast to the InstructLab method, which sources end-user contributions to support regular builds of an enhanced version of an LLM. InstructLab helps add knowledge and unlock new skills of an LLM.
 
 It’s possible to "supercharge" a RAG process by using the RAG technique on an InstructLab-tuned model.
-
-## Learn more about RAG
 
 ## What are the components of the InstructLab project?
 
